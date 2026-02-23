@@ -6,7 +6,7 @@ Build the classic word-guessing game using Python. You’ll practice working wit
 
 ## 📝 Tasks
 
-### 🛠️ Game Logic
+### 🛠️	Game Logic
 
 #### Description
 Implement the core mechanics of Hangman. Your program should choose a word, process guesses, and update the display accordingly.
@@ -21,7 +21,7 @@ Completed program should:
 - Show a message for win or loss
 
 
-### 🛠️ User Interaction
+### 🛠️	User Interaction
 
 #### Description
 Make the game interactive and user friendly by displaying progress and accepting input.
@@ -33,5 +33,3 @@ Completed program should:
 - Inform player of letters already guessed
 - Prompt the player for a new letter until the game ends
 
-
-**Skills practiced:** String manipulation, loops, conditionals, random selection
